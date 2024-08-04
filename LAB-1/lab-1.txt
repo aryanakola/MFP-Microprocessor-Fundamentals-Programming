@@ -1,1 +1,2 @@
 In the First lab there was only pdf reading and getting to know Dosbox and TASM and Debug Tutorial commands
+The Codes will Start from Lab-2
