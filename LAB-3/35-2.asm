@@ -9,7 +9,7 @@ assume cs:code,ds:data
     mov ax,data
     mov ds,ax
     mov ax,n1
-    ;cwd
+    cwd
     div n2
     
     mov ax,4c00h
