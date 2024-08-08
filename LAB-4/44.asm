@@ -11,7 +11,7 @@ assume cs:code, ds:data
         mov ds,ax
         mov ah,1
         int 21h
-        cmp al,59h
+        cmp al,check
 
         jz correct
         
