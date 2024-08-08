@@ -1,7 +1,7 @@
 data segment
     check db 'Y'
     message db "Hello World$"
-    not_correct db "Y is entered$"
+    not_correct db "Y is not entered$"
 data ends
 
 code segment
